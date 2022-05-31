@@ -32,7 +32,7 @@
       <img src="https://img.shields.io/badge/Gmail-Contact me.-red?style=flat-square&logo=gmail" alt="send-mail"/>
     </a>
   
-  - 📄 Know about my experiences <a href="(https://www.linkedin.com/in/athosreis77/">
+  - 📄 Know about my experiences <a href="(https://www.linkedin.com/in/athosreis77/"> 
       <img src="https://img.shields.io/badge/LinkedIn-LinkedIn-blue?style=flat-square&logo=linkedin" alt="VueJS Badge"/>
     </a>
   
