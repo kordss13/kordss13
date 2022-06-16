@@ -14,7 +14,7 @@
   </div>
   <div id='stats' align='center'>
   
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kordss13&show_icons=true&l&theme=chartreuse-dark&ocale=en&layout=compact" alt="kordss13" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kordss13&show_icons=true&l&theme=react&ocale=en&layout=compact" alt="kordss13" />
     
 
 
